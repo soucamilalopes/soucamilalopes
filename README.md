@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Sou **Camila Lopes**, graduanda em Banco de Dados com ênfase em Data Analytics pela PUCRS.
+Sou a **Camila Lopes**, graduanda em Banco de Dados com ênfase em Data Analytics pela PUCRS. <br>
 Este espaço é destinado a divulgação de projetos desenvolvidos durante a graduação e de projetos pessoais.
 
 🔗 Linkedin
@@ -10,8 +10,8 @@ https://www.linkedin.com/in/camilasilvalopes/
 
 Trimestre 2025/1
 - [Lógica e Programação para Computadores](https://github.com/soucamilalopes/analise-temperatura-anual)
-- [Lógica e Programação para Computadores][(https://github.com/soucamilalopes/consulta-dados-meteorologicos)
-- 
+- [Lógica e Programação para Computadores](https://github.com/soucamilalopes/consulta-dados-meteorologicos)
+  
 Trimestre 2025/2
 - [Banco de Dados](https://github.com/soucamilalopes/banco-dados-construtoras)
 
