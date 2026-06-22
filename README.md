@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**soucamilalopes/soucamilalopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Camila Lopes**, graduanda em Banco de Dados com ênfase em Data Analytics pela PUCRS.
+Este espaço é destinado a divulgação de projetos desenvolvidos durante a graduação e de projetos pessoais.
 
-Here are some ideas to get you started:
+🔗 Linkedin
+https://www.linkedin.com/in/camilasilvalopes/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos da Graduação já publicados
+
+Trimestre 2025/1
+- [Lógica e Programação para Computadores](https://github.com/soucamilalopes/analise-temperatura-anual)
+- [Lógica e Programação para Computadores][(https://github.com/soucamilalopes/consulta-dados-meteorologicos)
+- 
+Trimestre 2025/2
+- [Banco de Dados](https://github.com/soucamilalopes/banco-dados-construtoras)
+
+Trimestre 2025/4
+- [Coleta e Preparação de Dados](https://github.com/soucamilalopes/mental-health-data-analysis)
+
+
+
