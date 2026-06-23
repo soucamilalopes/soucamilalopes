@@ -18,5 +18,7 @@ Trimestre 2025/2
 Trimestre 2025/4
 - [Coleta e Preparação de Dados](https://github.com/soucamilalopes/mental-health-data-analysis)
 
+Trimestre 2026/1
+- [Inteligência de Negócio](https://github.com/soucamilalopes/solucao-imobiliaria-BI)
 
 
